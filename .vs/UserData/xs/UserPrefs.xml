@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{871946F5-5823-43E0-8F36-DBC24B6E08B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.DrivingLisence FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UserAge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DrivingLisence/Program.cs">
+    <Files>
+      <File FileName="UserData/Program.cs" Line="13" Column="13" />
+      <File FileName="UserAge/Program.cs" Line="24" Column="1" />
+      <File FileName="InstagramAgeCheck/Program.cs" Line="31" Column="2" />
+      <File FileName="DrivingLisence/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserData" expanded="True">
+            <Node name="DrivingLisence" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InstagramAgeCheck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UserData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

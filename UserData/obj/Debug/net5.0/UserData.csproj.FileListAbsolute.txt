@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/UserData/UserData/bin/Debug/net5.0/UserData.deps.json
+/Users/miinasooster/Projects/UserData/UserData/bin/Debug/net5.0/UserData.runtimeconfig.json
+/Users/miinasooster/Projects/UserData/UserData/bin/Debug/net5.0/UserData.runtimeconfig.dev.json
+/Users/miinasooster/Projects/UserData/UserData/bin/Debug/net5.0/UserData.dll
+/Users/miinasooster/Projects/UserData/UserData/bin/Debug/net5.0/ref/UserData.dll
+/Users/miinasooster/Projects/UserData/UserData/bin/Debug/net5.0/UserData.pdb
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.AssemblyInfo.cs
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.dll
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/ref/UserData.dll
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.pdb
+/Users/miinasooster/Projects/UserData/UserData/obj/Debug/net5.0/UserData.genruntimeconfig.cache

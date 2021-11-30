@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/UserData/DrivingLisence/bin/Debug/net5.0/DrivingLisence.deps.json
+/Users/miinasooster/Projects/UserData/DrivingLisence/bin/Debug/net5.0/DrivingLisence.runtimeconfig.json
+/Users/miinasooster/Projects/UserData/DrivingLisence/bin/Debug/net5.0/DrivingLisence.runtimeconfig.dev.json
+/Users/miinasooster/Projects/UserData/DrivingLisence/bin/Debug/net5.0/DrivingLisence.dll
+/Users/miinasooster/Projects/UserData/DrivingLisence/bin/Debug/net5.0/ref/DrivingLisence.dll
+/Users/miinasooster/Projects/UserData/DrivingLisence/bin/Debug/net5.0/DrivingLisence.pdb
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.AssemblyInfo.cs
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.dll
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/ref/DrivingLisence.dll
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.pdb
+/Users/miinasooster/Projects/UserData/DrivingLisence/obj/Debug/net5.0/DrivingLisence.genruntimeconfig.cache
